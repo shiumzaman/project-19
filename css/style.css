@@ -1,0 +1,49 @@
+.header{
+	min-height: 100px;
+	background-color: #555555;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.contract{
+	min-height: 250px;
+	background-color: #fffda2;
+	width: 60%;
+	float: left;
+}
+
+.blog{
+	min-height: 250px;
+	background-color: #a29bfe;
+	width: 40%;
+	float: right;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.box{
+	min-height: 200px;
+	width: 33.33%;
+	float: left;
+}
+
+.right{
+	background-color: #f0932b;
+}
+
+.middle{
+	background-color: #eb4d4b;
+}
+
+.left{
+	background-color: #6ab04c;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: #555555;
+}
